@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Aeonik';
+    src: url('fonts/Aeonik-Regular.woff2') format('woff2');
+}
+body {
+    font-family: 'Aeonik', sans-serif;
+}
